@@ -1,0 +1,201 @@
+body{
+	background-color: white;
+}
+nav a{
+	text-decoration: none;
+    color:black;
+    font-size: 1em;
+    padding: 0.5% 1.5%; 
+    position: relative;      
+}
+.esquina{
+	width: 90%;
+}
+.cover-image
+{
+	background: url("../img/semilla.jpg");
+	background-position: center;
+	width: 100%;
+	height: 350px;
+	background-size: cover;
+}
+.plomo{
+	background-color: #E0E0E0;
+	width: 100%;
+	height: 45%;
+	background-size: cover;
+}
+h5{
+	color: #808080;
+	
+	text-align: center;
+}
+.misi{
+	width:130px;
+	
+	
+}
+.sub{
+	font-size: 20px;
+	text-align: center;
+	font-family: OpenSans-Regular;
+}
+.tex{
+	color: #A8A8A8;
+	font-size: 13px;
+	text-align: center;
+	
+}
+.izquierda{
+	background: url("../img/metodo.jpg");
+	background-size: cover;
+	height: 350px;
+	background-position: center;
+}
+.derecha{
+	background: url("../img/fondo.jpg");
+	background-size: cover;
+	height: 350px;
+	background-position: center;
+}
+.lapiz{
+	padding-top: 10%;
+}
+.meto{
+	color: white;
+	font-family: OpenSans-Regular;
+}
+.meto-2{
+	color: white;
+	font-size: 14px;
+	padding: 0% 10%;
+	text-align: center;
+
+}
+.serv{
+	font-size: 20px;
+	text-align: center;
+	font-family: OpenSans-Regular;
+}
+.loor{
+	color:  #808080;
+	font-size: 13px;
+    padding: 1% 15%;
+}
+.text-green{
+	font-family: OpenSans-Regular;
+}
+.gris{
+	color:  #808080;
+	font-size: 12px;
+}
+.hero-image{
+	width: 100%;
+	padding: 3%;
+	
+}
+.nom{
+	padding-left: 10%;
+	padding-top: 5%; 
+	font-size: 20px;
+	font-family: OpenSans-Regular;
+}
+.nombre{
+	font-size: 20px;
+	font-family: OpenSans-Regular;
+}
+.lugar{
+	font-family: OpenSans-Regular;
+}
+.proyecto{
+	width: 70%;
+}
+.pd-0-10{
+	padding: 0% 10%;
+}
+.box .row{
+	padding: 3% 10%;
+}
+.girls{
+	border-radius:100%;
+	width: 50%;
+}
+h2{
+ font-family: OpenSans-Regular;	
+}
+h4{
+ font-family: OpenSans-Regular;	
+}
+.parrafo{
+ font-size: 14px;
+ padding: 0% 5%;
+}
+.icon{
+	width: 10%;
+	padding: 6% 0.5%;
+}
+.cash{
+    background: url("../img/fondo2.jpg");
+	background-size: cover;
+	height: 500px;	
+}
+.nob{
+	font-family: OpenSans-Regular;
+	margin-left:60px; 
+	font-size: 20px;
+}
+.chico{
+	margin-top: 10px;
+}
+.fott{
+   width: 90%;  
+}
+.photo{
+	width: 80%;
+	padding-left: 15%;
+}
+.titulo{
+	font-family: OpenSans-Regular;	
+	font-size: 20px;
+}
+.later{
+	font-size: 13px;
+
+}
+.titulo-1{
+	font-family: OpenSans-Regular;	
+	font-size: 20px;
+    padding-left: 15%;
+
+}
+.siguentee{
+	font-size: 13px;
+	padding-left: 15%;
+}
+.ico{
+	margin-top: 50px;
+	margin-left: 40px; 
+}
+
+.cuadrado{
+	width: 290px;
+	height: 230px;
+	border:solid 1px gray;
+	position: relative;
+	float:left;
+}
+.ultimo{
+	 font-family: OpenSans-Regular;	
+	 font-size: 20px;
+     padding:5% 10%;
+}
+.bola{
+	width: 15%;
+	position:absolute;
+	right: 30%;
+	bottom: 5%;
+}
+span{
+	color: orange;
+}
+
